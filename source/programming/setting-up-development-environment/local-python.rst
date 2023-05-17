@@ -16,7 +16,7 @@ This is a good option if you are using any of popular IDEs such as
 
 Install `Jupyter Visual Studio Code extension <https://code.visualstudio.com/docs/datascience/jupyter-notebooks>`_. Choosing a black-on-white theme recommended, because the default charts assume white background.
 
-Git clone the `Trading Executor repository from Github <git@github.com:tradingstrategy-ai/trade-executor.git>`_.
+Git clone the `Trading Executor repository from Github <https://github.com/tradingstrategy-ai/trade-executor>`_.
 
 Install the client and its dependencies using `Poetry <https://python-poetry.org/>`_:
 
@@ -49,7 +49,8 @@ This gives you the full path of `python` command.
 
 Then use Visual Studio Code *Python: Select Interpreter* command from *Command palette* to configure this interpreter by choosing *Enter interpreter path* option for the interpreter.
 
-Now you can run `Getting started <https://tradingstrategy.ai/docs/programming/examples/getting-started.html>`_ and other example notebooks. Open `ipynb` file in Visual Studio Code. Then choose *Run All* on the open notebook.
+Now you can run `
+<https://tradingstrategy.ai/docs/getting-started.html>`_ and other example notebooks. Open `ipynb` file in Visual Studio Code. Then choose *Run All* on the open notebook.
 
 .. image:: ./vscode.png
     :alt: Visual Studio Code example how to run a Jupyter Notebook
@@ -88,7 +89,7 @@ This gives you the full path of `python` command.
 
 Then use Visual Studio Code *Python: Select Interpreter* command from *Command palette* to configure this interpreter by choosing *Enter interpreter path* option for the interpreter.
 
-Now you can run `Getting started <https://tradingstrategy.ai/docs/programming/examples/getting-started.html>`_ and other example notebooks. Open `ipynb` file in Visual Studio Code. Then choose *Run All* on the open notebook.
+Now you can run `Getting started <https://tradingstrategy.ai/docs/getting-started.html>`_ and other example notebooks. Open `ipynb` file in Visual Studio Code. Then choose *Run All* on the open notebook.
 
 .. image:: ./vscode.png
     :alt: Visual Studio Code example how to run a Jupyter Notebook
